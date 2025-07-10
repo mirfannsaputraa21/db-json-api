@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "package.json",
+      "src": "server.js",
       "use": "@vercel/node",
       "config": {
         "includeFiles": [
@@ -14,7 +14,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "/server.js"
+      "destination": "server.js"
     }
   ]
 }
