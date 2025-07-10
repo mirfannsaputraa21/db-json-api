@@ -1,0 +1,37 @@
+{
+  "bahan": [
+    {
+      "id": 1,
+      "nama": "Bawang Merah",
+      "stok": 3,
+      "satuan": "kg"
+    },
+    {
+      "id": 2,
+      "nama": "Daging Sapi",
+      "stok": 10,
+      "satuan": "kg"
+    },
+    {
+      "id": 3,
+      "nama": "Minyak Goreng",
+      "stok": 20,
+      "satuan": "liter"
+    },
+    {
+      "id": 4,
+      "nama": "bawang putih",
+      "stok": 4,
+      "satuan": "kg"
+    }
+  ],
+
+
+  "users": [
+    {
+      "id": 1,
+      "username": "Muhammadirfansaputra@gmail.com",
+      "password": "admin123"
+    }
+  ]
+  }
